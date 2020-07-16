@@ -1,4 +1,4 @@
-### 大家好，我是曾通的爸爸
+### 欢迎来到我的 Github 主页
 
 想了解我更多，请关注我的[个人博客](https://chinesee.gitee.io/blog-nuxt/)
 

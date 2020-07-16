@@ -1,4 +1,6 @@
-### 曾通的爸爸
+### 大家好，我是曾通的爸爸
+
+想了解我更多，请关注我的[个人博客](https://chinesee.gitee.io/blog-nuxt/)
 
 <!--
 **Chinesee/Chinesee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

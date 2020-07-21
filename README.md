@@ -2,7 +2,7 @@
 
 想了解我更多，请关注我的[个人博客](https://chinesee.github.io/my-awsome-blog/)
 
-[![令狐少侠's github stats](https://github-readme-stats.vercel.app/api?username=Chinesee&show_icons=true&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e)](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
+[![我的 github 数据](https://github-readme-stats.vercel.app/api?username=Chinesee&show_icons=true&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e)](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
 
 <a href="https://github.com/Chinesee/eason-club">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=eason-club&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />

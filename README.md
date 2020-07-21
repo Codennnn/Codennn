@@ -2,6 +2,8 @@
 
 想了解我更多，请关注我的[个人博客](https://chinesee.github.io/my-awsome-blog/)
 
+[![令狐少侠's github stats](https://github-readme-stats.vercel.app/api?username=Chinesee)](https://github.com/anuraghazra/github-readme-stats)
+
 📊 **本周我的工作细则**
 <!--START_SECTION:waka-->
 ```text

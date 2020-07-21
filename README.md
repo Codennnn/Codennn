@@ -12,8 +12,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=love-share-service&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
 </a>
 
-
-<div>
+<div></div>
 📊 **本周我的工作细则**
 <!--START_SECTION:waka-->
 ```text
@@ -24,4 +23,3 @@ YAML        1 hr 32 mins        ████░░░░░░░░░░░░
 Markdown    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 <!--END_SECTION:waka-->
-</div>

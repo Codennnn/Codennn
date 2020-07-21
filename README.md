@@ -6,8 +6,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=eason-club&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e)](https://github.com/Chinesee/eason-club)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=
-love-share-service&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e)](https://github.com/Chinesee/love-share-service)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=eason-club&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e)](https://github.com/Chinesee/eason-club)
 
 📊 **本周我的工作细则**
 <!--START_SECTION:waka-->

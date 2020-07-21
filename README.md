@@ -17,10 +17,22 @@ Markdown    13 mins             ░░░░░░░░░░░░░░░░
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Chinesee&show_icons=true&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e)](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
 
-<a href="https://github.com/Chinesee/eason-club">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=eason-club&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
-</a>
+<div>
+  <a href="https://github.com/Chinesee/eason-club">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=eason-club&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
+  </a>
+  <a href="https://github.com/Chinesee/love-share-service" target="_blank">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=love-share-service&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
+  </a>
+</div>
 
-<a href="https://github.com/Chinesee/love-share-service" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=love-share-service&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
-</a>
+📊 **本周我的工作细则**
+<!--START_SECTION:waka-->
+```text
+Vue.js      2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.44 % 
+JavaScript  1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   23.49 % 
+JSON        1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+YAML        1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Markdown    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+```
+<!--END_SECTION:waka-->

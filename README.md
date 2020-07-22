@@ -14,9 +14,15 @@ Markdown    13 mins             ░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Chinesee&show_icons=true&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e)](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
-
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Chinesee&show_icons=true&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md">
+    <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&hide_langs_below=1" />
+  </a>
+</div>
+  
 <div>
   <a href="https://github.com/Chinesee/eason-club">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=eason-club&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />

@@ -21,8 +21,8 @@ Markdown     32 mins         ▒░░░░░░░░░░░░░░░░
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chinesee&layout=compact&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
 </a>
   
-<a href="https://github.com/Chinesee/eason-club">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=eason-club&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
+<a href="https://github.com/Chinesee/hr-crawler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=hr-crawler&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
 </a>
 <a href="https://github.com/Chinesee/love-share-service" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=love-share-service&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />

@@ -15,15 +15,15 @@ SCSS         1 hr 2 mins     ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinesee&show_icons=true&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Codennnn&show_icons=true&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chinesee&layout=compact&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Codennnn&layout=compact&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
 </a>
   
-<a href="https://github.com/Chinesee/hr-crawler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=hr-crawler&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
+<a href="https://github.com/Codennnn/hr-crawler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Codennnn&repo=hr-crawler&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
 </a>
-<a href="https://github.com/Chinesee/love-share-service" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinesee&repo=love-share-service&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
+<a href="https://github.com/Codennnn/love-share-service" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Codennnn&repo=love-share-service&title_color=ffcb6b&text_color=9aaccd&icon_color=82aaff&bg_color=292d3e" />
 </a>

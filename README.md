@@ -16,3 +16,5 @@ Markdown     1 hr 51 mins    ▓░░░░░░░░░░░░░░░░
 HTML         1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 ```
 <!--END_SECTION:waka-->
+
+![desktop](./mine.jpg)

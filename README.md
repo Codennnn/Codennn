@@ -11,8 +11,8 @@ I love to chase ideas and I spend a lot of time in my life watching and using so
 Want to know more about me? Come to my [Portfolio Site](https://leoku.top) to browse around ツ
 
 <details>
-  <summary>中文版本的简介</summary>
-  
+<summary>中文版简介</summary>
+
 ### 😉, 欢迎来到我的 GitHub 主页
 
 我叫陈梓聪，是一名生活在东莞的 Web 开发者。

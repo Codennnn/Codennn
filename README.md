@@ -6,7 +6,7 @@ I am LeoKu, a front-end developer from China.
 
 Currently I am focusing on front-end technologies that help people design complex applications to be simpler to use, enabling functionality while optimizing the user experience.
 
-I love to chase ideas and I spend a lot of time in my life watching and using some great product applications, learning from their successes and using them to inspire my creativity.
+I love to chase ideas and I spend a lot of time using some great product applications, learning from their successes and using them to inspire my creativity.
 
 Want to know more about me? Come to my [Portfolio Site](https://leoku.top) to browse around ツ
 

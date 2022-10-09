@@ -8,7 +8,7 @@ Currently I am focusing on front-end technologies that help people design comple
 
 I love to chase ideas and I spend a lot of time using some great product applications, learning from their successes and using them to inspire my creativity.
 
-Want to know more about me? Come to my [Portfolio Site](https://leoku.top) to browse around ツ
+Come to my [Portfolio Site](https://leoku.top) to know more about me ツ
 
 <details>
 <summary>中文版简介</summary>

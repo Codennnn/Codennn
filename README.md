@@ -1,4 +1,9 @@
-![Hi, I’m LeoKu. A front-end developer who loves marking art of code.](./profile-banner.jpg)
+<a href="https://leoku.top/">
+  <img
+    alt="Hi, I’m LeoKu. A front-end developer who loves marking art of code."
+    src="./profile-banner.jpg"
+  >
+</a>
 
 ### 😉, Welcome to my GitHub Profile!
 

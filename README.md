@@ -16,7 +16,7 @@ I love to chase ideas and I spend a lot of time using some great product applica
 Come to my [Portfolio Site](https://leoku.top) to know more about me ツ
 
 <details>
-<summary>中文版简介</summary>
+<summary>中文简介</summary>
 
 ### 😉, 欢迎来到我的 GitHub 主页
 

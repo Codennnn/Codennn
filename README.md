@@ -28,3 +28,5 @@ Come to my [Portfolio Site](https://leoku.top) to know more about me ツ
 
 想了解我更多吗？来我的 [个人网站 · 作品集](https://leoku.top) 逛逛吧 ツ
 </details>
+
+<sub>我热衷于搜罗有趣的知识，并创建了 [Discord 频道](https://discord.gg/KUA5zwPp59)，专注分享开发者信息，欢迎加入👏。</sub>

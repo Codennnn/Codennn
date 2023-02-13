@@ -7,13 +7,12 @@
 
 ### 😉, Welcome to my GitHub Profile!
 
-I am LeoKu, a front-end developer from China.
+I'm LeoKu, a front-end developer from China.
 
-Currently I am focusing on front-end technologies that help people design complex applications to be simpler to use, enabling functionality while optimizing the user experience.
+Currently, I focus on front-end technologies that help people design complex applications to be simpler to use, enabling functionality while optimizing the user experience.
 
-I love to chase ideas and I spend a lot of time using some great product applications, learning from their successes and using them to inspire my creativity.
-
-Come to my [Portfolio Site](https://leoku.top) to know more about me ツ
+I love chasing ideas and I spend a lot of time using some great product apps, learning from their successes and using them to inspire my creativity.
+Come to my [Portfolio Site](https://leoku.top) to learn more about me ツ
 
 <details>
 <summary>中文简介</summary>

@@ -28,4 +28,4 @@ Come to my [Portfolio Site](https://leoku.top) to learn more about me ツ
 想了解我更多吗？来我的 [个人网站 · 作品集](https://leoku.top) 逛逛吧 ツ
 </details>
 
-<sub>我创建了一个 [Discord 频道 - 灵狐掘迹](https://discord.gg/KUA5zwPp59)，用来分享我搜罗到的有趣的知识，欢迎加入👏。</sub>
+<sub>我创建了一个 [Discord 频道 - 灵狐掘迹](https://discord.gg/KUA5zwPp59)，用来分享我搜罗到的有趣知识，欢迎加入👏。</sub>

@@ -1,7 +1,7 @@
 <a href="https://leoku.dev/">
   <img
     alt="Hi, I’m LeoKu. A front-end developer who loves marking art of code."
-    src="./profile-banner.jpg"
+    src="./profile-banner.png"
   >
 </a>
 
